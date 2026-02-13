@@ -1,0 +1,34 @@
+[package]
+name = "desertstorm"
+version = "5.1.0"
+authors = ["DesertDemons"]
+edition = "2021"
+description = "High-Performance Asynchronous Network Reconnaissance Tool"
+license = "GPL-3.0"
+repository = "https://github.com/DesertDemons/DesertStorm"
+readme = "README.md"
+keywords = ["network", "scanner", "security", "reconnaissance", "pentesting"]
+categories = ["command-line-utilities", "network-programming"]
+
+[[bin]]
+name = "desertstorm"
+path = "src/main.rs"
+
+[dependencies]
+tokio = { version = "1.35", features = ["full"] }
+clap = { version = "4.4", features = ["derive"] }
+pnet = "0.34"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+crossbeam = "0.8"
+rand = "0.8"
+lazy_static = "1.4"
+libc = "0.2"
+chrono = "0.4"
+
+[profile.release]
+opt-level = 3
+lto = true
+codegen-units = 1
+panic = "abort"
+strip = true
