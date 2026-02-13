@@ -2,65 +2,21 @@
 
 # 🌪️ DesertStorm — High-Performance Network Scanner & Port Scanner
 
-<!-- ======= Banner ======= -->
-<table>
-  <tr>
-    <td width="110" align="center" valign="middle">
-      <img
-        src="./assets/desertdemons-logo.png"
-        width="90"
-        alt="DesertDemons Logo"
-      />
-    </td>
+<!-- ===== Banner Start ===== -->
 
-    <td valign="middle">
-      <h2>DesertStorm</h2>
+| <img src="./assets/desertstorm.png" width="90" alt="DesertDemons Logo"> | **DesertStorm**  <br> DesertStorm is a high-performance, stateless TCP SYN scanner written in Rust. <br> It crafts raw packets and can optionally grab async service banners for quick identification. <br><br> ⚠️ **Authorized use only.** Scan only systems you own or have explicit permission to test. |
+|---|---|
 
-      <p>
-        DesertStorm is a high-performance, stateless TCP SYN scanner written in Rust.
-        It crafts raw packets and can optionally grab async service banners for quick identification.
-      </p>
-
-      <p><b>⚠️ Authorized use only.</b> Scan only systems you own or have explicit permission to test.</p>
-    </td>
-  </tr>
-</table>
+<!-- ===== Banner End ===== -->
 
 <hr />
 
-<!-- ======= Styled Banner (non-GitHub renderers) ======= -->
-<div style="
-  display:flex;
-  gap:16px;
-  align-items:center;
-  padding:18px 20px;
-  border:1px solid #2d333b;
-  border-radius:12px;
-  background:#0b1220;
-">
-  <div style="
-    width:88px;height:88px;
-    display:flex;align-items:center;justify-content:center;
-    border-radius:12px;
-    background:#0f172a;
-    border:1px solid #22304a;
-  ">
-    <img src="./assets/desertdemons-logo.png" width="64" alt="DesertDemons Logo" />
-  </div>
+<!-- ===== Banner Start ===== -->
 
-  <div>
-    <div style="font-size:24px;font-weight:800;margin:0;color:#e6edf3;">
-      DesertStorm
-    </div>
-    <div style="margin-top:6px;color:#c9d1d9;line-height:1.45;">
-      Stateless TCP SYN scanner + async banner grabbing. Fast network recon for authorized environments.
-    </div>
-    <div style="margin-top:10px;color:#9da7b3;font-size:13px;">
-      ⚠️ Authorized use only — scan only targets you own or have written permission to test.
-    </div>
-  </div>
-</div>
+| <img src="./assets/desertstorm.png" width="80" alt="DesertDemons Logo"> | <div align="left"><h3>DesertStorm</h3><p>High-performance stateless TCP SYN scanner in Rust, with optional async banner grabbing.</p><p>⚠️ <b>Authorized use only.</b> Scan only systems you own or have permission to test.</p></div> |
+|---|---|
 
+<!-- ===== Banner End ===== -->
 
 
 
