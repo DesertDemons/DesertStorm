@@ -4,7 +4,7 @@
 
 <!-- ===== Banner Start ===== -->
 
-| <img src="./assets/desertstorm.png" width="90" alt="DesertDemons Logo"> | **DesertStorm**  <br> DesertStorm is a high-performance, stateless TCP SYN scanner written in Rust. <br> It crafts raw packets and can optionally grab async service banners for quick identification. <br><br> ⚠️ **Authorized use only.** Scan only systems you own or have explicit permission to test. |
+| <img src="./assets/DesertStorm.png" width="90" alt="DesertDemons Logo"> | **DesertStorm**  <br> DesertStorm is a high-performance, stateless TCP SYN scanner written in Rust. <br> It crafts raw packets and can optionally grab async service banners for quick identification. <br><br> ⚠️ **Authorized use only.** Scan only systems you own or have explicit permission to test. |
 |---|---|
 
 <!-- ===== Banner End ===== -->
@@ -13,7 +13,7 @@
 
 <!-- ===== Banner Start ===== -->
 
-| <img src="./assets/desertstorm.png" width="80" alt="DesertDemons Logo"> | <div align="left"><h3>DesertStorm</h3><p>High-performance stateless TCP SYN scanner in Rust, with optional async banner grabbing.</p><p>⚠️ <b>Authorized use only.</b> Scan only systems you own or have permission to test.</p></div> |
+| <img src="./assets/DesertStorm.png" width="80" alt="DesertDemons Logo"> | <div align="left"><h3>DesertStorm</h3><p>High-performance stateless TCP SYN scanner in Rust, with optional async banner grabbing.</p><p>⚠️ <b>Authorized use only.</b> Scan only systems you own or have permission to test.</p></div> |
 |---|---|
 
 <!-- ===== Banner End ===== -->
