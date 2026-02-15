@@ -11,14 +11,6 @@
 
 <hr />
 
-<!-- ===== Banner Start ===== -->
-
-| <img src="./assets/DesertStorm.png" width="80" alt="DesertDemons Logo"> | <div align="left"><h3>DesertStorm</h3><p>High-performance stateless TCP SYN scanner in Rust, with optional async banner grabbing.</p><p>⚠️ <b>Authorized use only.</b> Scan only systems you own or have permission to test.</p></div> |
-|---|---|
-
-<!-- ===== Banner End ===== -->
-
-
 
 ### Fast, Stealthy, Asynchronous Network Reconnaissance Tool Written in Rust
 
